@@ -1,5 +1,5 @@
 <?php
-$imprimir = true;
+$imprimir = false;
 if (!($imprimir))
     echo "No se debe imprimir el documento";
 else
