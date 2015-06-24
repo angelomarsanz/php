@@ -1,6 +1,5 @@
-
 <?php
-class televisor
+class Televisor
 {
     function encenderTelevisor()
     {
@@ -8,6 +7,6 @@ class televisor
     }
 }
 
-$bar = new Televisor;
-$bar->encenderTelevisor()
+$miTelevisor = new Televisor;
+$miTelevisor->encenderTelevisor()
 ?>
